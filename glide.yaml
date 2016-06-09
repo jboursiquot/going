@@ -6,3 +6,4 @@ import:
 - package: github.com/markbates/hmax
 - package: github.com/serenize/snaker
 - package: github.com/unrolled/render
+- package: github.com/labstack/gommon
